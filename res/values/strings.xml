@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pocket Progress</string>
+    <string name="home">Home</string>
+    <string name="daily_tracker">Daily Tracker</string>
+    <string name="add_habit">Add Habit</string>
+    <string name="todays_progress">Today\'s Progress</string>
+    <string name="text_field_label">Add a new habit</string>
+    <string name="encouragement">You\'re making progress.</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="edit_habit">Edit habit?</string>
+    <string name="save_change">Save change</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_question">What habit would you like to add?</string>
+    <string name="add_a_habit">Add a habit</string>
+</resources>
